@@ -1,0 +1,22 @@
+{
+  "name": "mean_tut",
+  "version": "1.0.0",
+  "description": "first program in MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maere/mean_tut.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "mm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maere/mean_tut/issues"
+  },
+  "homepage": "https://github.com/maere/mean_tut#readme"
+}
